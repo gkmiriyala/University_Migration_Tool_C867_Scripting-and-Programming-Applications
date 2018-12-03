@@ -1,0 +1,9 @@
+﻿  student.cpp
+  softwareStudent.cpp
+  securityStudent.cpp
+  roster.cpp
+  networkStudent.cpp
+  Generating Code...
+c:\users\gkmir\desktop\miriyala_fpp1_2\universitydatamigrationtool\roster.cpp(39): warning C4172: returning address of local variable or temporary: numb
+c:\users\gkmir\desktop\miriyala_fpp1_2\universitydatamigrationtool\roster.cpp(53): warning C4715: 'parseDegreeType': not all control paths return a value
+  UniversityDataMigrationTool.vcxproj -> C:\Users\gkmir\Desktop\Miriyala_FPP1_2\x64\Debug\UniversityDataMigrationTool.exe
